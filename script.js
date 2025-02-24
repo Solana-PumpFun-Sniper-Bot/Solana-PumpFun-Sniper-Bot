@@ -1,0 +1,1 @@
+console.log("Solana PumpFun Sniper bot is active!");
